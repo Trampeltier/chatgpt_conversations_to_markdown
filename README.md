@@ -17,7 +17,9 @@ It supports:
 
 ## 🖼️ GUI Screenshot
 
-![GUI Screenshot](./example_gui_screenshot.png)
+![GUI Screenshot](./example_gui.png)
+
+
 ---
 
 ## 🚀 Usage Instructions
